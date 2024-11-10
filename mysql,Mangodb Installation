@@ -1,0 +1,8 @@
+MY SQL
+sudo dnf update
+sudo dnf install community-mysql-server
+systemctl status mysqld
+sudo systemctl start mysqld
+$ systemctl status mysqld
+
+Mangodb
