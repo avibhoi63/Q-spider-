@@ -2,6 +2,15 @@ Group A: Lab Assignment No. 3
 
 Title : Design at least 10 SQL queries for suitable database application using SQL DML statements: all types of Join, Sub-Query and View
 
+ANS
+
+MY SQL
+sudo dnf update
+sudo dnf install community-mysql-server
+systemctl status mysqld
+sudo systemctl start mysqld
+$ systemctl status mysqld
+
 mysql> show databases;
 +	+
 | Database
